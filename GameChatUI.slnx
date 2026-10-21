@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ClientChatLibrary/ClientChatLibrary.csproj" Id="5f99e7de-b047-4288-bc9d-8daa055c33fa" />
+  <Project Path="GameChatUI/GameChatUI.csproj" Id="816c3621-133e-4809-9bad-f8287a10b711" />
+</Solution>
